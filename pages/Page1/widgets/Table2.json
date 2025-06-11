@@ -51,9 +51,17 @@
     },
     {
       "key": "boxShadow"
+    },
+    {
+      "key": "tableData"
     }
   ],
-  "dynamicPropertyPathList": [],
+  "dynamicPropertyPathList": [
+    {
+      "key": "tableData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
   "enableClientSideSearch": true,
   "endOfData": false,
   "flexVerticalAlignment": "start",
@@ -83,7 +91,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 28,
   "searchKey": "",
-  "tableData": "",
+  "tableData": "{{Query1.data}}",
   "textSize": "0.875rem",
   "topRow": 12,
   "totalRecordsCount": 0,
