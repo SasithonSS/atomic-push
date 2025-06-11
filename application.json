@@ -18,6 +18,10 @@
   "icon": "camera",
   "pages": [
     {
+      "id": "Authentication",
+      "isDefault": false
+    },
+    {
       "id": "Dashboard",
       "isDefault": false
     },
