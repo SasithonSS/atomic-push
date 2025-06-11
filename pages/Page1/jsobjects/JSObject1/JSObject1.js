@@ -6,5 +6,4 @@ export default {
 		//	this.myVar1 = [1,2,3]
 	},
 	async myFun2 () {
-		await storealue('varName', 'hello world')
-	}
+
