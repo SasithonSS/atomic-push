@@ -18,6 +18,38 @@
   "icon": "camera",
   "pages": [
     {
+      "id": "Dashboard2",
+      "isDefault": false
+    },
+    {
+      "id": "Orders3",
+      "isDefault": false
+    },
+    {
+      "id": "Customers2",
+      "isDefault": false
+    },
+    {
+      "id": "Products2",
+      "isDefault": false
+    },
+    {
+      "id": "Returns2",
+      "isDefault": false
+    },
+    {
+      "id": "Delivery Tracker3",
+      "isDefault": false
+    },
+    {
+      "id": "Restaurant Partners3",
+      "isDefault": false
+    },
+    {
+      "id": "Driver Information3",
+      "isDefault": false
+    },
+    {
       "id": "Delivery Tracker2",
       "isDefault": false
     },
