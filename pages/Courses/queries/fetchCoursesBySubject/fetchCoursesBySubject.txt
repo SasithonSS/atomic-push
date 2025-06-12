@@ -1,0 +1,8 @@
+SELECT
+    c.name AS course_name,
+
+FROM
+    public.course AS c
+    JOIN public.course_subject AS cs ON c.course_subject_id = cs.id
+    JOIN public.course_t
+		WHERE cs.id = {{lst_subjects.selectedItem.Id}}
