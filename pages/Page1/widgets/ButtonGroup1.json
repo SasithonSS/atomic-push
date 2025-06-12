@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 116,
+  "bottomRow": 115,
   "boxShadow": "none",
   "buttonVariant": "PRIMARY",
   "childStylesheet": {
@@ -131,7 +131,7 @@
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
   "rightColumn": 42,
-  "topRow": 112,
+  "topRow": 111,
   "type": "BUTTON_GROUP_WIDGET",
   "version": 1,
   "widgetId": "qd8gorka6j",

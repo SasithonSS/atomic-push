@@ -18,6 +18,38 @@
   "icon": "camera",
   "pages": [
     {
+      "id": "Delivery Tracker",
+      "isDefault": false
+    },
+    {
+      "id": "Restaurant Partners",
+      "isDefault": false
+    },
+    {
+      "id": "Driver Information",
+      "isDefault": false
+    },
+    {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Orders2",
+      "isDefault": false
+    },
+    {
+      "id": "Customers",
+      "isDefault": false
+    },
+    {
+      "id": "Products",
+      "isDefault": false
+    },
+    {
+      "id": "Returns",
+      "isDefault": false
+    },
+    {
       "id": "Courses",
       "isDefault": false
     },
