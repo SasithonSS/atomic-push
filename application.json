@@ -18,6 +18,18 @@
   "icon": "camera",
   "pages": [
     {
+      "id": "Delivery Tracker2",
+      "isDefault": false
+    },
+    {
+      "id": "Restaurant Partners2",
+      "isDefault": false
+    },
+    {
+      "id": "Driver Information2",
+      "isDefault": false
+    },
+    {
       "id": "Delivery Tracker",
       "isDefault": false
     },
